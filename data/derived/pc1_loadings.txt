@@ -1,0 +1,10 @@
+                       loadings
+Log10BodyWeight      0.79110206
+Log10BrainWeight     0.54785437
+Log10Area.cb         0.14927573
+Log10Area.ctx        0.15551301
+Log10Length.cb       0.11280742
+Log10Length.ctx      0.11375137
+Log10WidthMedian     0.02077599
+Log10PeriodMedian    0.01701304
+Log10ThicknessMedian 0.03405300
