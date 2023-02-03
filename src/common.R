@@ -24,6 +24,7 @@ library(svglite)
 # Load data
 source("./load_data.R")
 
+# Helper functions
 catn <- function(...) {
     cat(...)
     cat("\n")

@@ -1,0 +1,57 @@
+Binomial_name,Binomial_name_timetree,Microdraw_name,English_name,Provenance,LogBodyWeight,LogBrainWeight
+Ailurus_fulgens,Ailurus_fulgens,Red panda,Red panda,Brainmuseum,8.49699048409872,3.70990682130601
+Alouatta_palliata,Alouatta_palliata,Mantled howler,Mantled howler,Brainmuseum,8.74033674273045,3.90962012081184
+Aotus_trivirgatus,Aotus_trivirgatus,Night Monkey cell stained coronal,Night monkey,Brainmuseum,6.89669433162271,2.82435065679837
+Aplodontia_rufa,Aplodontia_rufa,Mountain beaver,Mountain beaver,Brainmuseum,7.00306545878646,1.95160817016995
+Bassariscus_astutus,Bassariscus_astutus,Ringtail cat Cell stain,Ringtail cat,Brainmuseum,7.02997291170639,2.79971738962803
+Bos_taurus_indicus,Bos_indicus,Zebu cell stained,Zebu,Brainmuseum,13.1615840905576,6.12249280951438
+Canis_familiaris,Canis_lupus,Dog,Dog,Brainmuseum,10.3449630981673,4.86753445045558
+Capra_hircus_domestica,Capra_hircus,Goat,Goat,Brainmuseum,10.3089526606442,4.66343909411206
+Castor_canadensis,Castor_canadensis,American beaver,American beaver,Brainmuseum,8.32161616781983,3.06339092202781
+Cavia_porcellus,Cavia_porcellus,Guineapig,Guinea pig,Brainmuseum,6.16541785423142,1.57484646766448
+Chinchilla_lanigera,Chinchilla_lanigera,Long-tailed chinchilla Cell,Long-tailed chinchilla,Brainmuseum,5.91889385427314,1.91692261218206
+Choloepus_didactylus,Choloepus_didactylus,Two-toed Sloth,Two-toed sloth,Brainmuseum,8.31385226739821,3.25540059955057
+Crocuta_crocuta,Crocuta_crocuta,Spotted hyena cell stained,Spotted hyena,Brainmuseum,11.0508900053737,4.97002161121096
+Cynictis_penicillata,Cynictis_penicillata,Yellow mongoose,Yellow mongoose,Brainmuseum,6.73340189183736,2.35042242240821
+Cynocephalus_volans,Cynocephalus_volans,Philippine flying lemur,Philippine flying lemur,Brainmuseum,6.69703424766648,1.82454929205105
+Dasypus_novemcinctus,Dasypus_novemcinctus,Nine-banded armadillo,Nine-banded armadillo,Brainmuseum,8.3039999709552,2.32727770558442
+Elephantulus_myurus,Elephantulus_myurus,Elephant shrew,Elephant shrew,Brainmuseum,3.99959422567628,0.314810739840033
+Equus_burchellii,Equus_grevyi,Zebra,Zebra,Brainmuseum,12.4292161968443,6.41673228251232
+Erethizon_dorsatum,Erethizon_dorsatum,North American Porcupine Cell stain,North American porcupine,Brainmuseum,8.21630429147717,2.83907846350861
+Erinaceus_europaeus,Erinaceus_europaeus,West European hedgehog Cell,West European hedgehog,Brainmuseum,6.75693238924755,1.20896034583698
+Eulemur_mongoz,Eulemur_mongoz,Mongoose lemur,Mongoose lemur,Brainmuseum,7.10002716662926,3.00419635196612
+Felis_catus,Felis_catus,Cat,Cat,Brainmuseum,8.10167774745457,3.24259235148551
+Galictis_vittata,Galictis_vittata,Greater Grison Cell stain,Greater grison,Brainmuseum,7.76131918094799,3.14285833844428
+Homo_sapiens,Homo_sapiens,Human 20um BigBrain,Human,BigBrain Project,11.0821425488778,7.1929342212158
+Lama_glama,Lama_glama,Llama,Llama,Brainmuseum,11.4099731583589,5.57670639208822
+Macaca_mulatta,Macaca_mulatta,Rhesus macaque rm316 Nissl,Rhesus macaque,Brainmaps,8.8236479491913,4.4884116253779
+Macaca_nemestrina,Macaca_nemestrina,Pig-tailed macaque,Pig-tailed macaque,Brainmuseum,9.08489052125877,4.65956366981842
+Macropus_fuliginosus,Macropus_fuliginosus,Gray kangaroo,Grey kangaroo,Brainmuseum,10.5050675395706,4.06044301054642
+Mandrillus_sphinx,Mandrillus_sphinx,Mandrill cell stained,Mandrill,Brainmuseum,10.0690019910137,5.03617307788409
+Mustela_erminea,Mustela_erminea,Weasel,Weasel,Brainmuseum,4.78749174278205,1.38629436111989
+Myrmecophaga_tridactyla,Myrmecophaga_tridactyla,Giant anteater,Giant anteater,Brainmuseum,10.244332358385,4.22390976657674
+Nasua_narica,Nasua_narica,White-nosed Coati,White-nosed coati,Brainmuseum,8.21608809863232,3.63758615972639
+Neogale_vison,Neogale_vison,American mink Cell stain,American mink,Brainmuseum,6.46925031679577,1.94591014905531
+Odocoileus_virginianus,Odocoileus_virginianus,White-tailed deer,White-tailed deer,Brainmuseum,10.5966347330961,5.07517381523383
+Oryctolagus_cuniculus,Oryctolagus_cuniculus,European rabbit,European rabbit,Brainmuseum,8.43598313599069,2.30757263450508
+Ovis_aries_domestica,Ovis_aries,Sheep,Sheep,Brainmuseum,10.9241382997345,5.16478597392351
+Pan_troglodytes,Pan_troglodytes,Chimpanzee,Chimpanzee,Brainmuseum,10.7136841663987,5.90903357312882
+Panthera_leo,Panthera_leo,Lion,Lion,Brainmuseum,11.9922604216448,5.40999290043863
+Pecari_tajacu,Pecari_tajacu,Collared peccary,Collared peccary,Brainmuseum,9.0395520509959,4.18965474202643
+Perodicticus_potto,Perodicticus_potto,Potto,Potto,Brainmuseum,6.72743172485086,2.51930807650533
+Phoca_vitulina,Phoca_vitulina,Harbor seal,Harbor seal,Brainmuseum,12.3444858526838,5.14312447714233
+Procavia_capensis,Procavia_capensis,Rock hyrax,Rock hyrax,Brainmuseum,8.03592636989179,2.99922616280825
+Pteropus_giganteus,Pteropus_giganteus,Indian flying fox,Indian flying fox,Brainmuseum,6.3578422665081,2.0515563381903
+Saimiri_sciureus,Saimiri_sciureus,Squirrel Monkey,Squirrel monkey,Brainmuseum,6.68336094576627,3.18387021566939
+Scalopus_aquaticus,Scalopus_aquaticus,Eastern mole,Eastern mole,Brainmuseum,4.74493212836325,0.22314355131421
+Semnopithecus_entellus,Semnopithecus_entellus,Northern Plains Gray langur,Northern plains grey langur,Brainmuseum,9.59845584174923,4.70889937175057
+Sorex_araneus,Sorex_araneus,Common shrew cell staining,Common shrew,Brainmuseum,2.33214389523559,-1.6094379124341
+Sus_scrofa_domesticus,Sus_scrofa,Pig,Pig,Brainmuseum,11.6699292137799,5.23750522715128
+Tamandua_tetradactyla,Tamandua_tetradactyla,Collared anteater,Collared anteater,Brainmuseum,7.91571319938212,3.23474917402449
+Taxidea_taxus,Taxidea_taxus,American badger Cell stain,American badger,Brainmuseum,8.86925752279729,3.88998187455127
+Tenrec_ecaudatus,Tenrec_ecaudatus,Tail-less Tenrec,Tailless tenrec,Brainmuseum,6.72383244082121,0.943905898907128
+Thomomys_talpoides,Thomomys_talpoides,Northern Pocket gopher,Northern pocket gopher,Brainmuseum,4.50645421304893,0.0582689081239758
+Trichechus_manatus_latirostris,Trichechus_manatus,Manatee cell stain,Florida manatee,Brainmuseum,13.0919041699196,5.75890177387728
+Tupaia_glis,Tupaia_glis,Treeshrew,Common treeshrew,Brainmuseum,5.13579843705026,1.16315080980568
+Ursus_maritimus,Ursus_maritimus,Polar bear,Polar bear,Brainmuseum,12.8706917424756,6.13000835655604
+Zalophus_californianus,Zalophus_californianus,California sealion,California sea lion,Brainmuseum,12.7728059012345,5.42164058258004
