@@ -13,25 +13,29 @@ fw  <-  data.frame(
   `English_name` = character(),
   `Log10Brain` = double(),
   `Log10Cerebellum` = double(),
-  `Log10CbExtSurface`=double(),
-  `Log10CbPialSurface`=double(),
-  `Log10Area.ctx`=double(),
-  `Log10Length.ctx`=double(),
-  `Log10Area.cb`=double(),
-  `Log10Length.cb`=double(),
-  `Log10WidthMedian.cb`=double(),
-  `Log10PeriodMedian.cb`=double(),
-  `Log10ThicknessMedian.cb`=double()
+  `Log10CbExtSurface` = double(),
+  `Log10CbPialSurface` = double(),
+  `Log10Area.ctx` = double(),
+  `Log10Length.ctx` = double(),
+  `Log10Area.cb` = double(),
+  `Log10Length.cb` = double(),
+  `Log10WidthMedian.cb` = double(),
+  `Log10PeriodMedian.cb` = double(),
+  `Log10ThicknessMedian.cb` = double()
 )
 for (row in ashwell$Binomial_name_timetree) {
   if (sum(df$Binomial_name_timetree == row)) {
     r <- c(
       row,
       as.matrix(df[df$Binomial_name_timetree == row, "English_name"]),
-      log10(as.matrix(ashwell[ashwell$Binomial_name_timetree == row, "Brain.volume"])),
-      log10(as.matrix(ashwell[ashwell$Binomial_name_timetree == row, "Total.Cb.volume"])),
-      log10(as.matrix(ashwell[ashwell$Binomial_name_timetree == row, "Cb.ext.surface..ESA."])),
-      log10(as.matrix(ashwell[ashwell$Binomial_name_timetree == row, "Cb.pial.surface..PSA."])),
+      log10(as.matrix(ashwell[ashwell$Binomial_name_timetree == row,
+                              "Brain.volume"])),
+      log10(as.matrix(ashwell[ashwell$Binomial_name_timetree == row,
+                              "Total.Cb.volume"])),
+      log10(as.matrix(ashwell[ashwell$Binomial_name_timetree == row,
+                              "Cb.ext.surface..ESA."])),
+      log10(as.matrix(ashwell[ashwell$Binomial_name_timetree == row,
+                              "Cb.pial.surface..PSA."])),
       as.matrix(df[df$Binomial_name_timetree == row, "Log10Area.ctx"]),
       as.matrix(df[df$Binomial_name_timetree == row, "Log10Length.ctx"]),
       as.matrix(df[df$Binomial_name_timetree == row, "Log10Area.cb"]),
@@ -66,10 +70,9 @@ save_pdf("../data/derived/supplemental_figure1a_validation_ashwell.pdf")
 # <<Supplemental Figure 1b validation Ashwell>>
 my_plot_allometry(fw$Log10CbPialSurface, fw$Log10Length.cb,
         fw$English_name, 0.5,
-        xlab = expression("Ashwell cerebellar pial surface (log"[10] * "mm" ^2 * ")"),
-        ylab = expression("Cerebellum section length (log"[10] * "mm" * ")"),
+        xlab = expression("Ashwell cerebellar pial surface (log"[10] *
+                          "mm" ^2 * ")"),
+        ylab = expression("Cerebellum section length (log"[10] *
+                          "mm" * ")"),
         main = "Cerebellum section length vs. cerebellar pial surface")
 save_pdf("../data/derived/supplemental_figure1b_validation_ashwell.pdf")
-
-
-
